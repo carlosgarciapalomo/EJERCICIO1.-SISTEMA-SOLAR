@@ -1,0 +1,1 @@
+Vemos que hay pequeñas fluctuaciones pero se mantiene constante en promedio. Se ha calculado la energía total del sistema (sol y 8 planetas). Se ha invertido el reescalamiento en la energía para tener el valor en Julios.
